@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/lapachal96xc
+    - export DEPLOYPATH=/home/lapachal96xc/public_html
     - /bin/cp -R * $DEPLOYPATH
