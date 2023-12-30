@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home2/mallvirtual94x/public_html/ServiVENT
+    - export DEPLOYPATH=/home/lapachal96xc
     - /bin/cp -R * $DEPLOYPATH
