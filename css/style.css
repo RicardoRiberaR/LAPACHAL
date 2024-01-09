@@ -32,7 +32,7 @@ body
 	padding: 0px;
 }
 body {
-	background: #FFF;
+	background: #ffffff;
 	font-weight: normal;
 	position: relative;
 	font-size: 14px;
@@ -412,7 +412,7 @@ header .navbar {
 	border-radius: 0px;
 	text-align: center;
 	width: 100%;
-	float: left;
+	float:center;
 }
 header .logo{
 	float: left;
@@ -423,7 +423,7 @@ header .logo{
 }
 header .ownmenu {
 	float: left;
-	padding:10px;
+	padding:250px;
 	padding-top:0px;
 	padding-right:0px;
 	padding-bottom:0px;
@@ -437,8 +437,8 @@ header .navbar li {
 }
 header .navbar li a {
 	font-family: 'Oswald', sans-serif;
-	font-size: 14px;
-	color: #313f46;
+	font-size: 25px;
+	color: #463131;
 	background: none !important;
 	padding: 28px 15px;
 	font-weight:normal;
@@ -461,10 +461,10 @@ header .quotes a {
 	padding: 0px 30px;
 	font-family: 'Oswald', sans-serif;
 	text-transform: uppercase;
-	background: #ffbe00;
+	background: #e22929;
 	color: #fff;
 	float: right;
-	margin-top:15px;
+	margin-top:30px;
 	margin-right:20px;
 	display: inline-block;
 }
